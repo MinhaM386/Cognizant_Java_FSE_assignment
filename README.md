@@ -58,7 +58,7 @@ This repository contains my hands-on solutions and project implementations compl
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 - Maven
@@ -78,7 +78,7 @@ This repository contains my hands-on solutions and project implementations compl
 
 ---
 
-## 💻 Development Tools
+##  Development Tools
 
 - IntelliJ IDEA
 - Visual Studio Code
@@ -89,13 +89,13 @@ This repository contains my hands-on solutions and project implementations compl
 
 ---
 
-## 📸 Outputs
+##  Outputs
 
 Execution screenshots are included for exercises wherever required to demonstrate successful implementation.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **MINHA MARIYAM**
 
